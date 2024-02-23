@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               Assignment7-1.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #7 Part I
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                October 30, 2023
-//
 //     This program creates a struct named Speaker, and keeps track of speakers.
 // 
 //****************************************************************************************************
