@@ -1,17 +1,8 @@
-//****************************************************************************************************
-//     File:               Assignment7-2.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #7 Part II
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                October 30, 2023
-//
 //     This program creates a struct named Speaker, and keeps track of speakers.
+//     As a slight modification of the previous program requirements, here we do
+//     not know in advance how many speakers will be involved. However, when the
+//     program begins the user will know the actual number and therefore can enter
+//     this information into the program. 
 //
 //****************************************************************************************************
 
@@ -241,8 +232,5 @@ Fee Required: 100
 5. Display all speakers
 6. Exit
 Enter your choice: 6
-
-D:\Classes\COSC 1560 Programming II\Assignment 7 Part 2\Assignment7-2\x64\Debug\Assignment7-2.exe (process 22384) exited with code 0.
-Press any key to close this window . . .
 
 */
